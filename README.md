@@ -2,7 +2,7 @@
 The way we think is motivation to succeed in projects most others believe is possible.
 When mastering back end (currently mastering), it was for the purpose of .com --
 
-What I want to do!  
+What I want to do!  Now focused on the hardware vulnerabilities and pulling it together.  Maybe it can work.
 
 In the name Trylike and .com -- It is .com as the back end of this project.
 Try (products, ChatCat, & all others) --  like (your company name, products, payment rec'd account)
