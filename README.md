@@ -8,14 +8,9 @@ In the name Trylike and .com -- It is .com as the back end of this project.
 Try (products, ChatCat, & all others) --  like (your company name, products, payment rec'd account)
 .com ( the back end ).
 
+<img width="1600" height="1190" alt="UC-43329a82-6682-457b-861b-aaa368cbd3eb" src="https://github.com/user-attachments/assets/8176c5fd-10a4-43e9-9e3b-068129a23b56" />
 
 
 
-- 🌱 I’m currently learning C++, Python, Complete Web Development, and more!
-- 👯 I’m looking to collaborate on Hosting Projects
-- 🤔 I’m looking for help with Business Opportunities
-- 💬 Ask me about Instructions and purpose of Web Build Programs
-- 📫 How to reach me: email
-- 😄 Pronouns: ProNOUN
-- ⚡ Fun fact: .com
--->
+
+
